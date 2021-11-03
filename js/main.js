@@ -21,5 +21,3 @@ if (window.innerWidth <= 768) {
     AOS.refreshHard();
   }, 500);
 }
-
-emoveAttribute;
