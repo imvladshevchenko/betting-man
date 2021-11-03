@@ -459,6 +459,7 @@ footer > h2 {
     background-image: url(../img/background-mobile.png);
     background-size: 768px;
     background-position: top;
+    overflow: hidden;
   }
   section {
     max-width: 320px;
