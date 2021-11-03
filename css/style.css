@@ -332,7 +332,7 @@ main {
 }
 .steps-2 > .steps__round {
   margin-right: 1.2em;
-  animation-delay: .5s;
+  animation-delay: 0.5s;
 }
 .steps-3 > .steps__round {
   margin-right: 1.2em;
@@ -379,6 +379,14 @@ main {
 .steps__arrow-mob--right,
 .steps__arrow-mob--left {
   display: none;
+}
+footer {
+  padding-top: 50px;
+}
+footer > h2 {
+  text-align: center;
+  color: #fff;
+  font-size: 5em;
 }
 @media screen and (max-width: 1200px) {
   main {
